@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
         console.log(choose.length)
         this.setAttribute('src', arrayCards[this.getAttribute('data-id')].dir)
         if(choose.length == 2){
-            if(choose[0].name === choose[1].name){
+            if((choose[0].name === choose[1].name ) && (choose[0].getAttribute('data-id') !== choose[1].getAttribute('data-id'))){
                 setTimeout(()=>{
                     alert('You found a match ')
                     score += 1
