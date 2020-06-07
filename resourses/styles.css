@@ -1,0 +1,55 @@
+h1, h2, h3, p,span, a{
+    font-family: 'Press Start 2P', cursive;
+}
+.background-image{
+    position: absolute;
+    z-index: -1;
+    height: 100vh;
+    width: 100vw;
+}
+
+.data{
+    margin: 0 auto;
+    display: flex;
+    width: 90vw;
+    justify-content: space-between;
+}
+    .data-sub{
+        text-align: center;
+    }
+.container{
+    width: 100%;
+    margin: 0;
+    
+}
+    .container img{
+        display: block;
+        margin: 0 auto;
+        margin-top: 30px;
+        width: 90%;
+        
+        padding: 0;
+    }
+    
+.links{
+    position: absolute;
+    z-index: 100;
+    bottom: 0;
+    left: 0;
+    transform: translate(0,-200%);
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+}   
+    .link{
+        margin: 0 auto;
+    }
+        .link img{
+            width: 30px;
+        }
+        .link a{
+            text-align: left;
+            color: white;
+            text-decoration: none;
+        }
+
