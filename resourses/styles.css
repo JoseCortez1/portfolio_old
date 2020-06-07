@@ -1,11 +1,19 @@
 h1, h2, h3, p,span, a{
     font-family: 'Press Start 2P', cursive;
 }
+
 .background-image{
     position: absolute;
     z-index: -1;
     height: 100vh;
     width: 100vw;
+    object-fit: cover;
+}
+@media (max-width: 480px){
+    .background-image{
+        width: 100%;
+        height: 100%;
+    }
 }
 
 .data{
@@ -15,8 +23,17 @@ h1, h2, h3, p,span, a{
     justify-content: space-between;
 }
     .data-sub{
+        color: white;
         text-align: center;
     }
+@media (max-width: 480px){
+    .data{
+        width: 100%;
+    }
+        .data-sub{
+            font-size: 1.2rem;
+        }
+}
 .container{
     width: 100%;
     margin: 0;
@@ -30,7 +47,16 @@ h1, h2, h3, p,span, a{
         
         padding: 0;
     }
-    
+@media (max-width: 480px){
+    .container{
+        display: flex;
+        justify-content: center;
+    }
+    .container  img{
+        width: 600px;
+        overflow-y: hidden;
+    }
+}
 .links{
     position: absolute;
     z-index: 100;
@@ -52,4 +78,15 @@ h1, h2, h3, p,span, a{
             color: white;
             text-decoration: none;
         }
+@media (max-width: 480px){
+    .links{
+        position: relative;
+        
+        z-index: none;
+        transform: none;
+        left: none;
+        top: none;
 
+
+    }
+}
