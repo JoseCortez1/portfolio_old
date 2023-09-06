@@ -1,0 +1,105 @@
+.container_projects{
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+@media(max-width:700px){
+    .container_projects{
+        width: 100%;
+    }
+}
+
+.project_component{
+    background-color: rgba(255, 255, 255, 0.213);
+    margin: 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-areas: 
+        "img technology technology"
+
+}
+@media(max-width:700px){
+    .project_component{
+        display: flex;
+        flex-direction: column-reverse;
+        
+    }
+}
+.project_component__img_container{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+}
+.project_component__img_container a{
+    
+    text-decoration: none;
+    font-weight: 700;
+    background-color: #282828;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 15px;
+    font-size: 20px;
+
+}
+.project_component__img_container a:hover{
+    background-color: #0c0c0c;
+    transition: all 0.5s ease-in-out;
+}
+.project_component__img{
+    width: 100%;
+    border-radius: 5px;
+    grid-area: img;
+
+}
+.project_component__technologies{
+    grid-area: technology;
+    padding: 0 20px;
+
+}
+@media(max-width:700px){
+    .project_component__technologies:last-child{
+        margin-bottom: 20px;
+        
+    }
+}
+.project_component__title{
+    text-transform: uppercase;
+    
+    text-align: center;
+    font-weight: 900;
+    margin: 0;
+}
+
+.project_component__subtitle{
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.project_component__container_technologies{
+    display: flex;
+    flex-wrap: wrap;
+}
+.tecnologie_container{
+    display: flex;
+    background-color: #282828;
+    padding: 5px;
+    padding: 5px 20px;
+    margin: 5px;
+    border-radius: 30px;
+    
+}
+.white{
+    background-color: #ffffff;
+    color:#282828 ;
+}
+.tecnologie_container p{
+    margin: 5px 10px;
+}
+.project_component__icon{
+    width: 30px;
+}

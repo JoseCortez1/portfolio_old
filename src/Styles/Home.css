@@ -1,0 +1,57 @@
+.Home__main{
+    width: 100%;
+    min-height: 100vh;
+}
+.Home__main__title{
+    background-color:#6a146756;
+    padding-left: 70px;
+    padding-top: 90px;
+}
+.Home__title__principal h1{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 120px;
+    font-weight: 700;
+}
+@media (max-width:700px){
+    .Home__main__title{
+        background-color:#500e4e83;
+        padding-left: 10px;
+        padding-top: 45px;
+    }
+    .Home__title__principal h1{
+        font-size: 50px;
+    }   
+}
+.Home__title__principal h1:first-child{
+    margin-bottom: -10px;
+}
+.Home__main__secondary h4{
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+.Home__main__navbar{
+    padding: 30px;
+    padding-bottom: 70px;
+    background-color: #2b2b2b6d;
+}
+@media (max-width:700px){
+    .Home__main__secondary h4{
+        margin-top: 10px;
+        padding: 0;
+        font-size: 24px;
+        font-weight: 700;
+        padding-bottom: 20px;
+    }
+    .Home__main__navbar{
+        min-height: 65vh;
+        background-color: #2b2b2ba8;
+    }
+}
+
+
+

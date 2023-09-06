@@ -1,0 +1,19 @@
+{
+    "jobs":[ 
+         {
+            "title":"Soporte Tecnico",
+            "company":"Izzi Telecom",
+            "date_start":"2015 August ",
+            "date_end":"2016 Junuary  ",
+            "description":"<p>During this time I was support technical by intercom, my jobs consisted helping the costumer in their problems like bad working in the television signal and internet, I needed check level on the nodos in their zone and in some ocations made reports for techs for they can go to repair it.</p><p>However also I made a client support helping them, cheking not recognicer payments, made reports for mistreatment by employees.</p><p>In this work I have gotten communicate with difficuld people, and had experience dealing with them.</p>"        
+        },
+        {
+            "title":"Web Developer",
+            "company":"Neo Redes Óptica de Occidente",
+            "date_start":"2020 June ",
+            "date_end":"Currently working",
+            "description":"<p>As a web developer I worked in a little team of three. I working in frontend and backend in the modules that I made.&nbsp;</p><p>Tasks are make modules for an application for the company, this application managment tickets for techs, this tickets save the current location of the browser which the session is open, allow take photos for the ticket, and save massage.</p><p>All this time I have been working for frontend VueJs and the design with Vuetify using .</p><p>For backend NodeJs where use MongoDB for data base, using express, cors, morgan an others.</p>"        
+        }
+       
+    ]
+}

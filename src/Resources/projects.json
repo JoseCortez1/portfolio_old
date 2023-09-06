@@ -1,0 +1,439 @@
+{
+    "projects":[
+        {
+            "id":0,
+            "title":"Accesorios Che",
+            "description_project":"<p>One of my first sites just have a html structure and a little of CSS, it has been one of my first personal projects.</p><p>It is on Netlify, <a data-fr-linked='true' href='https://accesoriosche.netlify.app/'>https://accesoriosche.netlify.app/</a>..</p><p>It has:</p><ol>    <li>HTML5</li>    <li>CSS3</li></ol><p><br></p><p><br></p>",
+            "img":"accesorios.png",
+            "link":"https://accesoriosche.netlify.app/",
+            "frontend":[
+                {
+                    "title":"HTML",
+                    "img":"html-5.svg",
+                    "alt":"HTML icon"
+                },
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                }
+            ],
+            "backend":[]
+        },
+        {
+            "id":1,
+            "title":"English School",
+            "link":"https://english-kevbra.netlify.app/",
+            "description_project":"<p>This site was designed for a litle english school, with te propouse of helping the kids give them &nbsp;an easy way to learn some subjects.</p><p>Link:&nbsp;<a href='https://english-kevbra.netlify.app/'>https://english-kevbra.netlify.app/</a></p><ul>    <li>HTML5</li>    <li>CSS3</li></ul>",
+            "img":"school.png",
+            "frontend":[
+                {
+                    "title":"HTML",
+                    "img":"html-5.svg",
+                    "alt":"HTML icon"
+                },
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                }
+            ],
+            "backend":[]
+        },
+        {
+            "id":2,
+            "title":"Memorama Game",
+            "link":"https://memorama-game.netlify.app/",
+            "description_project":"<p>Memorama game, I just wanna try do &nbsp;a little game, so that was the result</p><p>Link:&nbsp;<a href='https://memorama-game.netlify.app/'>https://memorama-game.netlify.app/</a></p><ul>    <li>HTML5</li>    <li>CSS3</li>    <li>JS</li></ul>",
+            "img":"memorama.png",
+            "frontend":[
+                {
+                    "title":"HTML",
+                    "img":"html-5.svg",
+                    "alt":"HTML icon"
+                },
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                },
+                {
+                    "title":"JS",
+                    "img":"javascript.svg",
+                    "alt":"JS icon"
+                }
+            ],
+            "backend":[]
+        },
+        {
+            "id":3,
+            "title":"E-commerce",
+            "link":"https://github.com/JoseCortez1/tienda-online",
+            "description_project":"<p>E-commerce was my first web with a backend I find this so interesting, I love backend since that, was and school project but a learn a lot.</p><p>Link: <a href='https://github.com/JoseCortez1/tienda-online'>https://github.com/JoseCortez1/tienda-online</a></p><p><strong>Frontend</strong></p><ul>    <li>HTML5</li>    <li>CSS3</li>    <li>JS</li></ul><p><strong>Backend</strong></p><ul>    <li>PHP7</li></ul>",            
+            "img":"frontendphp.png",
+            "frontend":[
+                {
+                    "title":"HTML",
+                    "img":"html-5.svg",
+                    "alt":"HTML icon"
+                },
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                },
+                {
+                    "title":"JS",
+                    "img":"javascript.svg",
+                    "alt":"JS icon"
+                }
+            ],
+            "backend":[
+                {
+                    "title":"PHP",
+                    "img":"php.svg",
+                    "alt":"PHP icon"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "title":"Admin E-commerce",
+            "link":"https://github.com/JoseCortez1/tienda-online/tree/master/Admin",
+            "description_project":"<p>The E-commerce needs &nbsp;a crud, so this admin controls that, it has and autenticator also, controls the admins and costumers.</p><p>Link: <a href='https://github.com/JoseCortez1/tienda-online/tree/master/Admin'>https://github.com/JoseCortez1/tienda-online/tree/master/Admin</a></p><p><strong>Frontend</strong></p><ul>    <li>HTML5</li>    <li>CSS3</li>    <li>JS</li></ul><p><strong>Backend</strong></p><ul>    <li>PHP7</li></ul>",
+            "img":"adminphp.png",
+            "frontend":[
+                {
+                    "title":"HTML",
+                    "img":"html-5.svg",
+                    "alt":"HTML icon"
+                },
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                },
+                {
+                    "title":"JS",
+                    "img":"javascript.svg",
+                    "alt":"JS icon"
+                }
+            ],
+            "backend":[
+                {
+                    "title":"PHP",
+                    "img":"php.svg",
+                    "alt":"PHP icon"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "title":"API for Capstore",
+            "link":"https://github.com/JoseCortez1/store_MERN_backend",
+            "description_project":"<p>This API was build for a personal project capstore, this is a landing page to show products to people so them can wacth and want to buy, this is one of my personal project more complex, has and JWT for check users, and has a crud to manager all about the products.</p><p>Link: <a href='https://github.com/JoseCortez1/store_MERN_backend'>https://github.com/JoseCortez1/store_MERN_backend</a></p><p><strong>Backend</strong></p><ul>    <li>Node JS</li>    <li>Express</li>    <li>MongoDB</li>    <li>Cors</li></ul>",            
+            "img":"What-is-an-API.png",
+            "frontend":[],
+            "backend":[
+                {
+                    "title":"Node JS",
+                    "img":"nodejs.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"Express",
+                    "img":"express.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"Mongo DB",
+                    "img":"mongodb.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"Cors ",
+                    "img":"npm.svg",
+                    "alt":"Node icon"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "title":"Capstore",
+            "link":"https://capstore.herokuapp.com/Home",
+            "description_project":"<p>This landing page was made for my family, to help to sell some of our products, I love made this project, was made from 0, in &nbsp;Reactjs consume and API to check the &nbsp;pics of hats,adn other for show the location of delivery points.</p><p>Code: <a href='https://github.com/JoseCortez1/store_MERN/tree/master/capstore'>https://github.com/JoseCortez1/store_MERN/tree/master/capstore</a></p><p>Link: <a href='https://capstore.herokuapp.com/Home'>https://capstore.herokuapp.com/Home</a></p><p><strong>Frontend</strong></p><ul>    <li>ReactJS</li>    <li>CSS3</li>    </ul><p><strong>API&apos;s</strong></p><ul>    <li><strong><a href='https://react-leaflet.js.org/'>https://react-leaflet.js.org/</a></strong></li>    <li><strong><a href='https://capstorebackend.herokuapp.com/api/products'>https://capstorebackend.herokuapp.com/api/products</a></strong></li></ul>",            
+            "img":"capsote.png",
+            "frontend":[
+                {
+                    "title":"ReactJS",
+                    "img":"react.svg",
+                    "alt":"Node icon"
+                },
+                
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                },
+                {
+                    "title":"React Router",
+                    "img":"react-router.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"LeftLet",
+                    "img":"leaflet.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"Cors ",
+                    "img":"npm.svg",
+                    "alt":"Node icon"
+                }],
+            "backend":[
+                
+            ]
+        },
+        {
+            "id":7,
+            "title":"Admin Capstore",
+            "link":"https://capstore.herokuapp.com/Home",
+            "description_project":"<p>Admin capstore, was designed for has the control of the products of capstore, this backend has autenticator Jason Web Token, and CRUD for all products in capstore.</p><p>User: jose</p><p>Password: 123456789</p><p>Code:&nbsp;<a href='https://github.com/JoseCortez1/store_MERN/tree/master/frontend'>https://github.com/JoseCortez1/store_MERN/tree/master/frontend</a></p><p>Link: <a href='https://admincapstore.herokuapp.com/Login'>https://admincapstore.herokuapp.com/Login</a></p><p><strong>Frontend</strong></p><ul>    <li>ReactJS</li>    <li>CSS3</li>    <li>Jason Web Token</li></ul><p><strong>Backend</strong></p><ul>    <li>Node JS</li>    <li>Jason Web Token</li></ul>",            
+            "img":"adminMERN.png",
+            "frontend":[
+                {
+                    "title":"ReactJS",
+                    "img":"react.svg",
+                    "alt":"Node icon"
+                },                
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                },
+                {
+                    "title":"React Router",
+                    "img":"react-router.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"Cors ",
+                    "img":"npm.svg",
+                    "alt":"Node icon"
+                }],
+            "backend":[
+                {
+                    "title":"Node JS",
+                    "img":"nodejs.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"Jason Web Token",
+                    "img":"npm.svg",
+                    "alt":"Node icon"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "title":"Whatsapp Clone",
+            "link":"https://whatsapp-clone-jevc.netlify.app/",
+            "description_project":"<p>Whatsapp clone was a part of a course try to practice more react, and writting of UI interface</p><p>Code: <a href='https://github.com/JoseCortez1/whatsapp-clone'>https://github.com/JoseCortez1/whatsapp-clone</a></p><p>Link: <a href='https://whatsapp-clone-jevc.netlify.app/'>https://whatsapp-clone-jevc.netlify.app/</a></p><p><strong>Frontend</strong></p><ul>    <li>ReactJS</li>    <li>CSS3</li></ul><p><strong>Backend</strong></p><ul>    <li>Node JS</li>    <li>PusherJS</li></ul>",            
+            "img":"whatsapp.png",
+            "frontend":[
+                {
+                    "title":"ReactJS",
+                    "img":"react.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                }
+            ],
+            "backend":[                
+                {
+                    "title":"Node JS",
+                    "img":"nodejs.svg",
+                    "alt":"Node icon"
+                },
+                {
+                    "title":"PusherJS",
+                    "img":"npm.svg",
+                    "alt":"Node icon"
+                } ]
+        },
+        {
+            "id":9,
+            "title":"Vue Calendar",
+            "link":"https://calendar-with-vue.netlify.app/",
+            "description_project":"<p>Vue Calendar was a test for an application, that I was develop in my job where we need implement a calendar</p><p>Code: <a href='https://github.com/JoseCortez1/calendar-with-vue'>https://github.com/JoseCortez1/calendar-with-vue</a></p><p>Link: <a href='https://calendar-with-vue.netlify.app/'>https://calendar-with-vue.netlify.app/</a></p><p><strong>Frontend</strong></p><ul>    <li>VueJs</li>    <li>Vuetify</li></ul><p><strong>Backend</strong></p><ul>    <li>Firebase</li></ul>",            
+            "img":"vue-calendar.png",
+            "frontend":[
+                {
+                    "title":"VueJS",
+                    "img":"vue.svg",
+                    "alt":"Vuejs icon"
+                },
+                {
+                    "title":"Vuetify",
+                    "img":"vuetifyjs.svg",
+                    "alt":"Vuetify icon"
+                }
+            ],
+            "backend":[                
+                {
+                    "title":"Firebase",
+                    "img":"firebase.svg",
+                    "alt":"Firebase icon"
+                }
+                ]
+        },
+        {
+            "id":10,
+            "title":"Prisma Joyeria Landing",
+            "link":"https://prueba.prismajoyeria.com/#contacto",
+            "description_project":"<p>Landing page prisma joyeria, was a frelance project to a jewelry</p><p>Link: <a href='https://prueba.prismajoyeria.com/#inicio'>https://prueba.prismajoyeria.com/#inicio</a></p><p><strong>Frontend</strong></p><ul>    <li>ReactJS</li>    <li>CSS3</li></ul>",            
+            "img":"prisma.png",
+            "frontend":[
+                {
+                    "title":"ReactJs",
+                    "img":"react.svg",
+                    "alt":"Vuejs icon"
+                },
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                }
+            ],
+            "backend":[
+                ]
+        },
+        {
+            "id":11,
+            "title":"Kodda",
+            "link":"https://kodda-landing.netlify.app/",
+            "description_project":"<p>Kodda is a little app to help sell, dog tags, has a backend on node to send automatically a mail to seller</p><p>Link: <a href='https://kodda-landing.netlify.app/'>https://kodda-landing.netlify.app/</a></p><p><strong>Frontend</strong></p><ul>    <li>ReactJS</li>    <li>CSS3</li></ul><p><strong>Backend</strong></p><ul>    <li>NodeJs</li>    <li>NodeMailer</li></ul>",            
+            "img":"kodda.png",
+            "frontend":[
+                {
+                    "title":"ReactJs",
+                    "img":"react.svg",
+                    "alt":"Vuejs icon"
+                },
+                {
+                    "title":"CSS",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                }
+            ],
+            "backend":[
+                {
+                    "title":"NodeJS",
+                    "img":"nodejs.svg",
+                    "alt":"NodeJS icon"
+                },
+                {
+                    "title":"NodeMailer",
+                    "img":"npm.svg",
+                    "alt":"Nodemailer icon"
+                }
+                ]
+        },
+        {
+            "id":12,
+            "title":"MemoryReports",
+            "link":"https://www.memoryreports.com/login",
+            "description_project":"<p>This app was develop for a company where i&apos;m current working Neo Redes, this app is built on Vue JS without backend on NodeJs.&nbsp;</p><p>introduccion &nbsp;of this app.</p><p>With this application we are looking eliminate the dead times where tecnicians &nbsp;in this company wait a inggenier from a external companies, this is thanks a one module that i builded &nbsp;where the tecnicians check they are in the fail site and they are waiting for this inggeniers, in the same module the tecnicias must take a picture from they arrive, while they are working in the site and when they leave it. also they left a little description, and the left if they have to left components they have a little &quot;CRUD&quot; where them can add, delete or modify what are that components.</p><p>The app has more modules but i worked more in this part , in backend and frontend, where backend has a connection with a MongoDB, the frontend was make in VueJS and the UI with Vuetify.</p><p>It has a automatly functions for check the status of the tickets each day, a excel generator for get the data from the tickets in excel format, web push notifications to alert the tecnicians about their tickets, also checking for each technicians just can see its tickes.</p><p>Link: <a href='https://www.memoryreports.com/login'>https://www.memoryreports.com/login</a></p><p><strong>Frontend</strong></p><ul>    <li>VueJS</li>    <li>Vuetify</li>    <li>CSS3</li>    <li>Leaflet</li>    <li>Axios</li>    <li>Date-Fns</li>    <li>JWT</li>    <li>PushJS</li>    <li>Web Pushers</li>    <li>Jason-as-xlxls</li></ul><p><strong>Backend</strong></p><ul>    <li>NodeJS</li>    <li>NodeMailer</li>    <li>MongoDB</li>    <li>Mongoose</li>    <li>JWT</li>    <li>Socket.io</li></ul>",            
+            "img":"memory.png",
+            "frontend":[
+                {
+                    "title":"VueJS",
+                    "img":"vue.svg",
+                    "alt":"Vuejs icon"
+                },
+                {
+                    "title":"Vuetify",
+                    "img":"css-3_official.svg",
+                    "alt":"Vuetify icon"
+                },
+                {
+                    "title":"CSS3",
+                    "img":"css-3_official.svg",
+                    "alt":"CSS icon"
+                }
+                ,{
+                    "title":"PushJS",
+                    "img":"npm.svg",
+                    "alt":"PushJS icon"
+                },{
+                    "title":"Json Web Decode",
+                    "img":"npm.svg",
+                    "alt":"Nodemailer icon"
+                },{
+                    "title":"Leaflet",
+                    "img":"leaflet.svg",
+                    "alt":"Leaflet icon"
+                },{
+                    "title":"Date fns",
+                    "img":"npm.svg",
+                    "alt":"Date fns icon"
+                },{
+                    "title":"Json-as-xlsx",
+                    "img":"npm.svg",
+                    "alt":"Json-as-xlsx icon"
+                },{
+                    "title":"Axios",
+                    "img":"npm.svg",
+                    "alt":"Axios icon"
+                }
+            ],
+            "backend":[
+                {
+                    "title":"NodeJS",
+                    "img":"nodejs.svg",
+                    "alt":"NodeJS icon"
+                },
+                {
+                    "title":"NodeMailer",
+                    "img":"npm.svg",
+                    "alt":"Nodemailer icon"
+                },{
+                    "title":"Jason Web Token",
+                    "img":"npm.svg",
+                    "alt":"Nodemailer icon"
+                },{
+                    "title":"Morgan",
+                    "img":"npm.svg",
+                    "alt":"Nodemailer icon"
+                },{
+                    "title":"Express",
+                    "img":"express.svg",
+                    "alt":"Nodemailer icon"
+                },{
+                    "title":"Mongoose",
+                    "img":"npm.svg",
+                    "alt":"Nodemailer icon"
+                },{
+                    "title":"MongoDB",
+                    "img":"mongodb.svg",
+                    "alt":"Nodemailer icon"
+                },{
+                    "title":"WebPusher",
+                    "img":"npm.svg",
+                    "alt":"Nodemailer icon"
+                },{
+                    "title":"socket.io",
+                    "img":"npm.svg",
+                    "alt":"Nodemailer icon"
+                }
+
+
+                ]
+        }
+        
+
+    ]
+}
