@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JoseCortez1.github.io/static/css/main.309ce7b3.chunk.css",
+    "main.js": "/JoseCortez1.github.io/static/js/main.1f0d034d.chunk.js",
+    "main.js.map": "/JoseCortez1.github.io/static/js/main.1f0d034d.chunk.js.map",
+    "runtime-main.js": "/JoseCortez1.github.io/static/js/runtime-main.273f626e.js",
+    "runtime-main.js.map": "/JoseCortez1.github.io/static/js/runtime-main.273f626e.js.map",
+    "static/js/2.b50ca911.chunk.js": "/JoseCortez1.github.io/static/js/2.b50ca911.chunk.js",
+    "static/js/2.b50ca911.chunk.js.map": "/JoseCortez1.github.io/static/js/2.b50ca911.chunk.js.map",
+    "index.html": "/JoseCortez1.github.io/index.html",
+    "static/css/main.309ce7b3.chunk.css.map": "/JoseCortez1.github.io/static/css/main.309ce7b3.chunk.css.map",
+    "static/js/2.b50ca911.chunk.js.LICENSE.txt": "/JoseCortez1.github.io/static/js/2.b50ca911.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/JoseCortez1.github.io/static/media/background.65ec11f3.svg",
+    "static/media/facebook.fad4903c.svg": "/JoseCortez1.github.io/static/media/facebook.fad4903c.svg",
+    "static/media/github-icon.b23ce338.svg": "/JoseCortez1.github.io/static/media/github-icon.b23ce338.svg",
+    "static/media/linkedin.dd657402.svg": "/JoseCortez1.github.io/static/media/linkedin.dd657402.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.273f626e.js",
+    "static/js/2.b50ca911.chunk.js",
+    "static/css/main.309ce7b3.chunk.css",
+    "static/js/main.1f0d034d.chunk.js"
+  ]
+}
